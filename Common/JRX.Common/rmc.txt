@@ -1,0 +1,3 @@
+Day=Friday
+year=2006
+holiday="Cinco de Mayo"

@@ -1,0 +1,9 @@
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\bin\Debug\JRX.Desktop.Executable.exe.config
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\bin\Debug\JRX.Desktop.Executable.exe
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\bin\Debug\JRX.Desktop.Executable.pdb
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.csprojAssemblyReference.cache
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.Properties.Resources.resources
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.csproj.GenerateResource.cache
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.csproj.CoreCompileInputs.cache
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.exe
+C:\Users\jckim\source\repos\JRXViewer\ImageViewer\ImageViewer\ImageViewer\obj\Debug\JRX.Desktop.Executable.pdb

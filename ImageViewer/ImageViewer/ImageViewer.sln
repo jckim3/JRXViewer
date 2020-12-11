@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desktop", "Desktop", "{69B9947C-E0FB-4562-BB38-7AB73639C3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRX.Desktop.Executable", "JRX.Desktop.Executable\JRX.Desktop.Executable.csproj", "{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{963EEB0E-8AD0-4FF6-86AE-1FB01F111E6A} = {69B9947C-E0FB-4562-BB38-7AB73639C3F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5BB696-9CE9-4CB9-A6FF-4F528B66C31D}
+	EndGlobalSection
+EndGlobal
