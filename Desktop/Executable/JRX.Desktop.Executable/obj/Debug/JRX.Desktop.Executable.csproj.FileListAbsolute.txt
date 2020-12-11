@@ -1,0 +1,13 @@
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Desktop.Executable.exe.config
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Desktop.Executable.exe
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Desktop.Executable.pdb
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.Properties.Resources.resources
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.csproj.GenerateResource.cache
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.csproj.CoreCompileInputs.cache
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.exe
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.pdb
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.csprojAssemblyReference.cache
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Common.dll
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Common.pdb
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\bin\Debug\JRX.Common.dll.config
+C:\Users\jckim\source\repos\JRXViewer\Desktop\Executable\JRX.Desktop.Executable\obj\Debug\JRX.Desktop.Executable.csproj.CopyComplete

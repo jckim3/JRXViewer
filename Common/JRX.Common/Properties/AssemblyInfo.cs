@@ -8,8 +8,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("JRX.Common")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("JRX Diagnostics LLC")]
-[assembly: AssemblyProduct("JRX  Workstation")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("JRX.Common")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -17,10 +17,10 @@ using System.Runtime.InteropServices;
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
-[assembly: ComVisible(true)]
+[assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4ccb16da-bebc-4e34-bef4-7d9a1457ce26")]
+[assembly: Guid("3aa6964b-3f1f-42ec-b426-2b3e2400e80b")]
 
 // Version information for an assembly consists of the following four values:
 //

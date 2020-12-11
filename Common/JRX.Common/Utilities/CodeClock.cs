@@ -141,10 +141,10 @@ namespace JRX.Common.Utilities
 		/// </summary>
 		public override string ToString()
 		{
-			ResourceManager resmgr = new ResourceManager(typeof(SR));
-			return String.Format(resmgr.GetString("FormatSeconds"), Seconds);
+			//ResourceManager resmgr = new ResourceManager(typeof(SR));
+			//return String.Format(resmgr.GetString("FormatSeconds"), Seconds);
 			//return String.Format(SR.FormatSeconds, Seconds); 
-			//return String.Format("{0}seconds", Seconds);
+			return String.Format("{0}seconds", Seconds);
 		}
 	}
 }
